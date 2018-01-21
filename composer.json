@@ -1,0 +1,13 @@
+{
+    "name": "comp/test",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "zed-chi@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "zedchi/verify": "dev-master"
+    }
+}
